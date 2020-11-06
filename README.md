@@ -1,6 +1,13 @@
 # Capgemini Capathon 2020
 ### Code for the website that ended up winning the competition.
 
+Participants:
+- [Ove Jørgensen](https://github.com/ovejorgensen)
+- [Marius Sørensen](https://github.com/sorensenmarius)
+- [Tor-Fredrik Torgersen](https://github.com/ttorgersen)
+- [Odin Bjørnebo](https://github.com/theseusdeus)
+- [Brynjar Ulriksen](https://github.com/brynjarulriksen)
+
 # Hackathon - Get started
 
 	1. Klone lagets repository fra github til en lokal mappe
