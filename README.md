@@ -1,3 +1,6 @@
+# Capgemini Capathon 2020
+### Code for the website that ended up winning the competition.
+
 # Hackathon - Get started
 
 	1. Klone lagets repository fra github til en lokal mappe
